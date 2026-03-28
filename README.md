@@ -33,5 +33,9 @@ Furthermore, this project highlights the importance of key management in encrypt
 In conclusion, the Advanced Encryption Tool successfully demonstrates the practical implementation of AES-based encryption for file security. It emphasizes the importance of protecting sensitive data and showcases how cryptographic techniques can be applied in real-world scenarios. This task enhances understanding of data security principles and provides valuable experience in building secure applications using Python.
 
 *OUTPUT*:
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/0714bb4a-a665-4481-868b-66b9514ada9c" />
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9c58139c-0774-408c-b83f-7bc6529bd390" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/bfdd320c-e948-4f5f-aa1d-e6caa158488e" />
 
